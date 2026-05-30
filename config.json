@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentretch",
+        "uuid": 4743612,
+        "checksum": "i626s7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
